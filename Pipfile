@@ -12,6 +12,11 @@ beautifulsoup4 = "*"
 jupyterlab = "*"
 matplotlib = "*"
 seaborn = "*"
+openpyxl = "*"
+altair = "*"
+vega-datasets = "*"
+plotly = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.6"
